@@ -21,7 +21,14 @@
       "cityName": "İzmir",
       "townName": "Atatürk Mahallesi",
       "companyName": "Nokta Market"
-    }
+    },
+    {
+      "id": 1,
+      "title": "Backend Developer",
+      "cityName": "İstanbul",
+      "townName": "Hasanpaşa Mahallesi",
+      "companyName": "Art Software"
+    },
   ],
   "profile": {
     "name": "typicode"
